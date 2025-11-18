@@ -1,0 +1,43 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  margin: 20px;
+}
+
+.location-input {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.location-input form {
+  margin-bottom: 10px;
+}
+
+.location-input input {
+  margin-right: 10px;
+}
+
+.location-input div {
+  margin: 5px 0;
+}
+
+.explorer-3d {
+  width: 800px;
+  height: 600px;
+  border: 1px solid #ccc;
+}
+
+.education-panel {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  width: 600px;
+  background-color: #f9f9f9;
+}

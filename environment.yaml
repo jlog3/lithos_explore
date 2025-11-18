@@ -1,0 +1,11 @@
+name: lithos_explore
+channels:
+  - defaults
+dependencies:
+  - python=3.10  # Or your preferred version; matches your earlier .pyc files
+  - flask
+  - numpy
+  - hashlib  # Built-in, but explicit for clarity
+  - pip
+  - pip:
+    # Add any other pip-only deps if needed
