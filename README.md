@@ -1,5 +1,13 @@
-# LithosCipher Explorer
-Web app for exploring procedural rocks.
+# Lithos Explorer
+Web app for exploring geologically representative 3D rock formations using real-world data.
+
+##Overview
+This project integrates real geologic data from APIs to generate 3D rock chunks that approximate actual compositions for user-entered locations. It geocodes locations, fetches stratigraphic and lithologic data (e.g., via Macrostrat API), and adjusts procedural generation accordingly—mapping real rock types to minerals, probabilities, and layers. It's educational, focusing on real geology while retaining some procedural elements for visualization.
+Stack:
+- Backend: Python 3.10 with Flask for API, requests for external APIs, hashlib for offsets, NumPy for array ops.
+- Frontend: React with React Three Fiber (@react-three/fiber, @react-three/drei) for 3D rendering using Three.js.
+- Environment: Managed via Conda (environment.yaml) and pip (requirements.txt, including requests).
+- Other: CORS for cross-origin requests, proxy setup in package.json for dev; external APIs: geocode.maps.co (geocoding), Macrostrat (geology).
 
 ## Prerequisites
 - [Miniconda or Anaconda](https://docs.conda.io/en/latest/miniconda.html) for Python environment management.
@@ -7,17 +15,19 @@ Web app for exploring procedural rocks.
 
 ## Setup and Run
 1. Clone the repo:
-git clone <your-repo-url>
+```bash
+git clone https://github.com/jlog3/lithos_explore.git
 cd lithos_explore
-
+```
 
 2. Run the startup script—it handles everything (creates/activates Conda env, installs deps, starts servers):
+```bash
 ./start.sh
-
+```
 - Backend (Flask) runs on http://localhost:5000.
 - Frontend (React) runs on http://localhost:3000 (proxies API calls to backend).
 
-3. Open http://localhost:3000 in your browser. Enter a seed, location, or offsets to explore 3D regions.
+3. Open http://localhost:3000 in your browser. Enter a location to fetch real geologic data and explore adjusted 3D regions.
 
 ## Manual Setup (if needed)
 - Create/activate Conda env: `conda env create -f environment.yaml && conda activate lithos_explore`
@@ -25,14 +35,18 @@ cd lithos_explore
 - Frontend (separate terminal): `cd frontend && npm install && npm start`
 
 ## Features
-- 3D chunk visualization with rotation/zoom using Three.js.
-- User location input maps to offsets for "geographic" exploration (via hashing).
-- Educational explanations of hashing.
-- API for mineral queries, 2D slices, and 3D chunks.
-- Region-specific: Enter a location string to jump to a unique offset-based view.
+- Real geologic data integration: Geocodes locations, fetches units/lithologies from Macrostrat, adjusts mineral probabilities/colors/layers.
+- 3D visualization of stratified chunks based on real stratigraphic columns (e.g., vertical layers from thicknesses).
+- Dynamic educational panel showing fetched data (e.g., rock types, ages, depths) and voxel scale (e.g., ~100 ft³ per voxel).
+- Location-based exploration: Hashed offsets for procedural variety, overlaid with real compositions.
+- API endpoints: Extended /api/offsets includes geology; /api/chunk3d adjusts based on data.
+- Size/zoom controls with loading states and error handling.
 
 ## Notes
-- For production, use a proxy like nginx to serve both.
-- Optimize 3D rendering for larger sizes if needed.
-- If CORS issues arise, add `from flask_cors import CORS` to `backend/app.py`, then `CORS(app)` after `app = Flask(__name__)`.
-- To stop: Ctrl+C in the terminal running `start.sh`.
+- This version emphasizes accuracy with real data—fallback to procedural if APIs fail.
+- API usage: Free tiers (no keys needed), but respect rate limits; cache results in production.
+- For production, deploy backend with Gunicorn/NGINX and build frontend statically (npm run build).
+- Optimize for data-heavy fetches: Add caching (e.g., Redis) for repeated locations.
+- If CORS issues: Already handled via flask-cors.
+- To stop: Ctrl+C in the terminal running start.sh.
+- Future ideas: Add more APIs (e.g., USGS for US-specific), interactive layer slicing, export reports.
