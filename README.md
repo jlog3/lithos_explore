@@ -1,5 +1,5 @@
 # Lithos Explorer
-Web app for exploring geologically representative 3D rock formations using real-world data.
+Web app (Flask, React) for exploring geologically representative 3D rock formations using real-world data.
 
 ## Overview
 This project integrates real geologic data from APIs to generate 3D rock chunks that approximate actual compositions for user-entered locations. It geocodes locations, fetches stratigraphic and lithologic data (e.g., via Macrostrat API), and adjusts procedural generation accordingly—mapping real rock types to minerals, probabilities, and layers. It's educational, focusing on real geology while retaining some procedural elements for visualization.
@@ -50,3 +50,6 @@ cd lithos_explore
 - If CORS issues: Already handled via flask-cors.
 - To stop: Ctrl+C in the terminal running start.sh.
 - Future ideas: Add more APIs (e.g., USGS for US-specific), interactive layer slicing, export reports.
+- For adding textures to new (or old) minerals follow directions in docs/BLENDER_TEXTURE_GUIDE.md
+	Place all PNGs in frontend/public/textures/  and update constants (textures in frontend/src/components/Explorer3D.js) and MINERAL_COLORS in app.py (frontend: color acts as a tint or multiplier on the texture enhancing realism—textures provide detail/pattern, colors provide hue/variation.; backend: In generate_slice, it fills a NumPy array with RGB colors for 2D slices (e.g., small_grid[y, x] = MINERAL_COLORS[mineral]).
+	This is for potential 2D visualizations (e.g., exporting images or slices via /api/slice2d, which returns mineral strings but could be extended to colors).)

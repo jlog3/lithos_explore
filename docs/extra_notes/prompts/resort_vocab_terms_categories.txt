@@ -1,0 +1,16 @@
+Categorize the following list of terms into these exact categories: Geology, Esoteric, Chemistry, Mineralogy, Crystallography, Petrology, Geochronology, Gemology, Mining and Extraction, Economics, History, Culture and Mythology, Environment and Sustainability, Health and Wellness, Technology and Applications.
+
+
+
+Categorize the following list of terms into these exact categories: Geology, Chemistry, Mineralogy, Crystallography, Petrology, Geochronology, Gemology, Mining and Extraction, Economics, History, Culture and Mythology, Environment and Sustainability, Health and Wellness, Technology and Applications.
+
+For each term, assign it to the SINGLE most relevant category.
+
+Output ONLY a JSON object like this:
+{
+  "Geology": ["termA", "termB"],
+  "Esoteric": ["termC"],
+  // ... all categories, even if empty ...
+  "Uncategorized": ["termX"]
+}
+Do not add explanations or extra text.

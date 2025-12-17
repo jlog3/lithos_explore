@@ -1,0 +1,1 @@
+Generate a seamless, tileable 512x512 PNG texture of [iron ore], with [realistic reddish-brown banded layers and metallic hematite sheen, as found in natural deposits like those in the Pilbara region in Western Australia.] Make it high-detail for an educational webapp showing minerals by location, including subtle variations in color and roughness for authenticity.

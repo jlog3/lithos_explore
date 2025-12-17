@@ -1,0 +1,50 @@
+Provide a JSON object for the mineral Iron Ore
+ that includes ONLY the following keys with verbose, informative content where applicable:
+
+* luster
+
+* cleavage
+
+* specific_gravity
+
+* streak
+
+* optical_properties
+
+* chemical_composition
+
+* associated_minerals
+
+* formation_process
+
+* rock_types
+
+* industrial_uses
+
+* modern_applications
+
+* etymology
+
+* historical_uses
+
+* cultural_myths
+
+* economic_value
+
+* mining_methods
+
+* environmental_impact
+
+* health_aspects
+
+* fun_facts (as an array of strings)
+
+* related_minerals (as an array of strings)
+
+* specimen_images (as an array of example file paths, e.g., '/images/amethyst/specimen1.jpg')
+
+* rarity_index (as a string, e.g., 'Common (scale: 1-10)')
+
+* educational_quiz_questions (as an array of objects, each with 'question', 'answer', and 'options' as an array)
+
+* references (as an array of strings) Structure the output as: {'minerals': {'[lowercase mineral key]': { // new keys here }}}. Make the content educational and broad, drawing from reliable sources. Output only the raw JSON object, nothing else."

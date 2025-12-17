@@ -1,0 +1,1866 @@
+{
+    "minerals": {
+        "amethyst": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical composition of amethyst?",
+                    "answer": "SiO2",
+                    "options": [
+                        "SiO2",
+                        "CaCO3",
+                        "Fe2O3",
+                        "Al2O3"
+                    ]
+                },
+                {
+                    "question": "What does the name 'amethyst' derive from in ancient Greek?",
+                    "answer": "Not intoxicated",
+                    "options": [
+                        "Purple stone",
+                        "Not intoxicated",
+                        "Wine god",
+                        "Crystal quartz"
+                    ]
+                },
+                {
+                    "question": "What process causes the purple color in amethyst?",
+                    "answer": "Iron impurities combined with natural irradiation",
+                    "options": [
+                        "Manganese deposits",
+                        "Iron impurities combined with natural irradiation",
+                        "Heat treatment",
+                        "Chromium inclusions"
+                    ]
+                },
+                {
+                    "question": "In which type of rock is amethyst most commonly found?",
+                    "answer": "Volcanic rocks like basalt",
+                    "options": [
+                        "Sedimentary limestone",
+                        "Volcanic rocks like basalt",
+                        "Metamorphic schist",
+                        "Granitic pegmatites"
+                    ]
+                },
+                {
+                    "question": "What is a common historical belief about amethyst?",
+                    "answer": "It prevents drunkenness",
+                    "options": [
+                        "It brings wealth",
+                        "It prevents drunkenness",
+                        "It enhances strength",
+                        "It cures diseases"
+                    ]
+                }
+            ]
+        },
+        "amphibole": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the characteristic cleavage angle in amphibole minerals?",
+                    "answer": "56\u00b0 and 124\u00b0",
+                    "options": [
+                        "90\u00b0",
+                        "56\u00b0 and 124\u00b0",
+                        "60\u00b0 and 120\u00b0",
+                        "45\u00b0 and 135\u00b0"
+                    ]
+                },
+                {
+                    "question": "Which amphibole variety is known as blue asbestos?",
+                    "answer": "Crocidolite",
+                    "options": [
+                        "Hornblende",
+                        "Tremolite",
+                        "Crocidolite",
+                        "Actinolite"
+                    ]
+                },
+                {
+                    "question": "What does the Greek root of 'amphibole' mean?",
+                    "answer": "Ambiguous",
+                    "options": [
+                        "Strong",
+                        "Ambiguous",
+                        "Double chain",
+                        "Fireproof"
+                    ]
+                },
+                {
+                    "question": "Which health condition is primarily associated with inhaling amphibole asbestos?",
+                    "answer": "Mesothelioma",
+                    "options": [
+                        "Asthma",
+                        "Mesothelioma",
+                        "Diabetes",
+                        "Arthritis"
+                    ]
+                }
+            ]
+        },
+        "azurite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of azurite?",
+                    "answer": "Cu\u2083(CO\u2083)\u2082(OH)\u2082",
+                    "options": [
+                        "Cu\u2082(CO\u2083)(OH)\u2082",
+                        "Cu\u2083(CO\u2083)\u2082(OH)\u2082",
+                        "CuCO\u2083",
+                        "Cu(OH)\u2082"
+                    ]
+                },
+                {
+                    "question": "Which mineral does azurite commonly alter to in nature?",
+                    "answer": "Malachite",
+                    "options": [
+                        "Cuprite",
+                        "Malachite",
+                        "Chrysocolla",
+                        "Cerussite"
+                    ]
+                },
+                {
+                    "question": "What is the streak color of azurite?",
+                    "answer": "Light blue",
+                    "options": [
+                        "White",
+                        "Green",
+                        "Light blue",
+                        "Black"
+                    ]
+                },
+                {
+                    "question": "In which ancient civilization was azurite used as a blue pigment in wall paintings?",
+                    "answer": "Ancient Egypt",
+                    "options": [
+                        "Ancient Rome",
+                        "Ancient Egypt",
+                        "Medieval Europe",
+                        "Ancient China"
+                    ]
+                },
+                {
+                    "question": "What causes azurite's blue color according to crystal field theory?",
+                    "answer": "d-d transitions in Cu\u00b2\u207a ions",
+                    "options": [
+                        "Iron impurities",
+                        "d-d transitions in Cu\u00b2\u207a ions",
+                        "Carbonate absorption",
+                        "Hydroxide bonding"
+                    ]
+                }
+            ]
+        },
+        "basalt": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical composition range for silica in basalt?",
+                    "answer": "45-52%",
+                    "options": [
+                        "45-52%",
+                        "60-70%",
+                        "30-40%",
+                        "70-80%"
+                    ]
+                },
+                {
+                    "question": "Which mythological figure is associated with building the Giant's Causeway?",
+                    "answer": "Finn McCool",
+                    "options": [
+                        "Finn McCool",
+                        "Pele",
+                        "Osiris",
+                        "Vishap"
+                    ]
+                },
+                {
+                    "question": "What is the average specific gravity of basalt?",
+                    "answer": "2.9 g/cm\u00b3",
+                    "options": [
+                        "2.5 g/cm\u00b3",
+                        "2.9 g/cm\u00b3",
+                        "3.5 g/cm\u00b3",
+                        "2.0 g/cm\u00b3"
+                    ]
+                },
+                {
+                    "question": "In what tectonic setting is tholeiitic basalt most commonly formed?",
+                    "answer": "Mid-ocean ridges",
+                    "options": [
+                        "Mid-ocean ridges",
+                        "Continental rifts",
+                        "Subduction zones",
+                        "Hotspots"
+                    ]
+                }
+            ]
+        },
+        "bauxite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical component of bauxite?",
+                    "answer": "Hydrous aluminum oxides",
+                    "options": [
+                        "Iron oxides",
+                        "Silica",
+                        "Hydrous aluminum oxides",
+                        "Calcium carbonate"
+                    ]
+                },
+                {
+                    "question": "How does bauxite primarily form?",
+                    "answer": "Through tropical weathering and lateritization",
+                    "options": [
+                        "Volcanic activity",
+                        "Sedimentary deposition",
+                        "Through tropical weathering and lateritization",
+                        "Metamorphic processes"
+                    ]
+                },
+                {
+                    "question": "What is the main industrial use of bauxite?",
+                    "answer": "Production of aluminum",
+                    "options": [
+                        "Gemstone cutting",
+                        "Production of aluminum",
+                        "Fertilizer manufacturing",
+                        "Glass making"
+                    ]
+                },
+                {
+                    "question": "Which environmental issue is commonly associated with bauxite mining?",
+                    "answer": "Deforestation and habitat loss",
+                    "options": [
+                        "Acid rain",
+                        "Deforestation and habitat loss",
+                        "Ozone depletion",
+                        "Urban sprawl"
+                    ]
+                }
+            ]
+        },
+        "calcite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of calcite?",
+                    "answer": "CaCO\u2083",
+                    "options": [
+                        "CaCO\u2083",
+                        "SiO\u2082",
+                        "NaCl",
+                        "Fe\u2082O\u2083"
+                    ]
+                },
+                {
+                    "question": "What optical property is calcite most famous for?",
+                    "answer": "Double refraction",
+                    "options": [
+                        "Double refraction",
+                        "Piezoelectricity",
+                        "Magnetism",
+                        "Radioactivity"
+                    ]
+                },
+                {
+                    "question": "On the Mohs hardness scale, what value does calcite define?",
+                    "answer": "3",
+                    "options": [
+                        "1",
+                        "3",
+                        "5",
+                        "7"
+                    ]
+                },
+                {
+                    "question": "In which type of rock is calcite the primary component?",
+                    "answer": "Limestone",
+                    "options": [
+                        "Granite",
+                        "Limestone",
+                        "Basalt",
+                        "Shale"
+                    ]
+                },
+                {
+                    "question": "What ancient civilization associated calcite with the goddess Bast?",
+                    "answer": "Egyptians",
+                    "options": [
+                        "Romans",
+                        "Vikings",
+                        "Egyptians",
+                        "Greeks"
+                    ]
+                }
+            ]
+        },
+        "chalcopyrite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical formula of chalcopyrite?",
+                    "answer": "CuFeS\u2082",
+                    "options": [
+                        "FeS\u2082",
+                        "CuFeS\u2082",
+                        "Cu\u2082S",
+                        "ZnS"
+                    ]
+                },
+                {
+                    "question": "Which color best describes the streak of chalcopyrite?",
+                    "answer": "Greenish black",
+                    "options": [
+                        "Yellow",
+                        "Black",
+                        "Greenish black",
+                        "White"
+                    ]
+                },
+                {
+                    "question": "In what type of deposit is chalcopyrite commonly found?",
+                    "answer": "Porphyry copper deposits",
+                    "options": [
+                        "Kimberlite pipes",
+                        "Porphyry copper deposits",
+                        "Evaporite beds",
+                        "Placer deposits"
+                    ]
+                },
+                {
+                    "question": "What ancient era did chalcopyrite significantly contribute to through copper extraction?",
+                    "answer": "Bronze Age",
+                    "options": [
+                        "Stone Age",
+                        "Iron Age",
+                        "Bronze Age",
+                        "Industrial Revolution"
+                    ]
+                }
+            ]
+        },
+        "clay": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary formation process of clay minerals?",
+                    "answer": "Chemical weathering in the presence of water",
+                    "options": [
+                        "Chemical weathering in the presence of water",
+                        "Volcanic eruption",
+                        "Metamorphic recrystallization",
+                        "Evaporative precipitation"
+                    ]
+                },
+                {
+                    "question": "Which clay mineral group is known for its swelling properties?",
+                    "answer": "Smectite",
+                    "options": [
+                        "Kaolinite",
+                        "Smectite",
+                        "Illite",
+                        "Chlorite"
+                    ]
+                },
+                {
+                    "question": "What hypothesis links clay minerals to the origin of life?",
+                    "answer": "Clay hypothesis",
+                    "options": [
+                        "Clay hypothesis",
+                        "Panspermia theory",
+                        "Primordial soup",
+                        "Hydrothermal vent theory"
+                    ]
+                },
+                {
+                    "question": "What is a common industrial use of kaolin?",
+                    "answer": "Paper filler",
+                    "options": [
+                        "Drilling mud",
+                        "Paper filler",
+                        "Cat litter",
+                        "Brick making"
+                    ]
+                }
+            ]
+        },
+        "cobalt": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical formula of the mineral cobaltite?",
+                    "answer": "CoAsS",
+                    "options": [
+                        "CoS",
+                        "CoAsS",
+                        "FeAsS",
+                        "NiAs"
+                    ]
+                },
+                {
+                    "question": "From what German word does 'cobalt' derive, meaning a goblin?",
+                    "answer": "Kobold",
+                    "options": [
+                        "Kobalt",
+                        "Kobold",
+                        "Kobel",
+                        "Kowalt"
+                    ]
+                },
+                {
+                    "question": "What is a major modern use of cobalt?",
+                    "answer": "Lithium-ion batteries",
+                    "options": [
+                        "Gold jewelry",
+                        "Lithium-ion batteries",
+                        "Steel production",
+                        "Plastic manufacturing"
+                    ]
+                },
+                {
+                    "question": "What health issue can excess cobalt cause?",
+                    "answer": "Cardiomyopathy",
+                    "options": [
+                        "Headaches",
+                        "Cardiomyopathy",
+                        "Hair loss",
+                        "Tooth decay"
+                    ]
+                }
+            ]
+        },
+        "copper": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical symbol for copper?",
+                    "answer": "Cu",
+                    "options": [
+                        "Cu",
+                        "Co",
+                        "Cp",
+                        "Cr"
+                    ]
+                },
+                {
+                    "question": "From which island does the name 'copper' etymologically derive?",
+                    "answer": "Cyprus",
+                    "options": [
+                        "Crete",
+                        "Cyprus",
+                        "Sicily",
+                        "Malta"
+                    ]
+                },
+                {
+                    "question": "What color is the streak of native copper?",
+                    "answer": "Copper-red",
+                    "options": [
+                        "White",
+                        "Black",
+                        "Copper-red",
+                        "Green"
+                    ]
+                },
+                {
+                    "question": "Which goddess is copper mythologically associated with?",
+                    "answer": "Aphrodite",
+                    "options": [
+                        "Athena",
+                        "Aphrodite",
+                        "Hera",
+                        "Demeter"
+                    ]
+                },
+                {
+                    "question": "What is a primary modern application of copper?",
+                    "answer": "Renewable energy systems",
+                    "options": [
+                        "Food preservation",
+                        "Renewable energy systems",
+                        "Textile dyeing",
+                        "Wood carving"
+                    ]
+                }
+            ]
+        },
+        "diamond": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical element in diamond?",
+                    "answer": "Carbon",
+                    "options": [
+                        "Carbon",
+                        "Silicon",
+                        "Oxygen",
+                        "Nitrogen"
+                    ]
+                },
+                {
+                    "question": "On the Mohs hardness scale, what is diamond's rating?",
+                    "answer": "10",
+                    "options": [
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "question": "What type of luster does diamond typically exhibit?",
+                    "answer": "Adamantine",
+                    "options": [
+                        "Vitreous",
+                        "Metallic",
+                        "Adamantine",
+                        "Pearly"
+                    ]
+                },
+                {
+                    "question": "In which rock type are most primary diamonds found?",
+                    "answer": "Kimberlite",
+                    "options": [
+                        "Granite",
+                        "Basalt",
+                        "Kimberlite",
+                        "Sandstone"
+                    ]
+                },
+                {
+                    "question": "What causes the blue color in some diamonds?",
+                    "answer": "Boron impurities",
+                    "options": [
+                        "Nitrogen impurities",
+                        "Boron impurities",
+                        "Hydrogen impurities",
+                        "Iron impurities"
+                    ]
+                }
+            ]
+        },
+        "dolomite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of dolomite?",
+                    "answer": "CaMg(CO\u2083)\u2082",
+                    "options": [
+                        "CaCO\u2083",
+                        "CaMg(CO\u2083)\u2082",
+                        "MgCO\u2083",
+                        "CaSO\u2084"
+                    ]
+                },
+                {
+                    "question": "Who is the mineral dolomite named after?",
+                    "answer": "D\u00e9odat Gratet de Dolomieu",
+                    "options": [
+                        "Nicolas-Th\u00e9odore de Saussure",
+                        "D\u00e9odat Gratet de Dolomieu",
+                        "Carl Linnaeus",
+                        "Abraham Gottlob Werner"
+                    ]
+                },
+                {
+                    "question": "In which type of rock is dolomite most commonly found as a major component?",
+                    "answer": "Dolostone",
+                    "options": [
+                        "Granite",
+                        "Basalt",
+                        "Dolostone",
+                        "Shale"
+                    ]
+                },
+                {
+                    "question": "What is a key industrial use of dolomite?",
+                    "answer": "Flux in steelmaking",
+                    "options": [
+                        "Gemstone cutting",
+                        "Flux in steelmaking",
+                        "Battery production",
+                        "Textile dyeing"
+                    ]
+                },
+                {
+                    "question": "What phenomenon does dolomite exhibit when scratched?",
+                    "answer": "Triboluminescence",
+                    "options": [
+                        "Fluorescence",
+                        "Phosphorescence",
+                        "Triboluminescence",
+                        "Piezoelectricity"
+                    ]
+                }
+            ]
+        },
+        "emerald": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What trace elements primarily cause the green color in emerald?",
+                    "answer": "Chromium or vanadium",
+                    "options": [
+                        "Iron and copper",
+                        "Chromium or vanadium",
+                        "Titanium and nickel",
+                        "Manganese and cobalt"
+                    ]
+                },
+                {
+                    "question": "What is the Mohs hardness scale rating for emerald?",
+                    "answer": "7.5 to 8",
+                    "options": [
+                        "5 to 6",
+                        "6.5 to 7",
+                        "7.5 to 8",
+                        "8.5 to 9"
+                    ]
+                },
+                {
+                    "question": "Which country produces the majority of the world's emeralds?",
+                    "answer": "Colombia",
+                    "options": [
+                        "Brazil",
+                        "Zambia",
+                        "Colombia",
+                        "Ethiopia"
+                    ]
+                },
+                {
+                    "question": "What term describes the inclusions in emeralds that resemble a garden?",
+                    "answer": "Jardin",
+                    "options": [
+                        "Fracture",
+                        "Jardin",
+                        "Vein",
+                        "Matrix"
+                    ]
+                }
+            ]
+        },
+        "feldspar": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the typical luster of feldspar?",
+                    "answer": "Vitreous",
+                    "options": [
+                        "Vitreous",
+                        "Metallic",
+                        "Pearly",
+                        "Dull"
+                    ]
+                },
+                {
+                    "question": "Which element is NOT commonly in feldspar's composition?",
+                    "answer": "Iron",
+                    "options": [
+                        "Potassium",
+                        "Sodium",
+                        "Calcium",
+                        "Iron"
+                    ]
+                },
+                {
+                    "question": "In which rock type is feldspar most abundant?",
+                    "answer": "Igneous",
+                    "options": [
+                        "Igneous",
+                        "Sedimentary",
+                        "Metamorphic",
+                        "Evaporite"
+                    ]
+                },
+                {
+                    "question": "What is feldspar primarily used for in industry?",
+                    "answer": "Glassmaking",
+                    "options": [
+                        "Glassmaking",
+                        "Fuel",
+                        "Medicine",
+                        "Electronics"
+                    ]
+                }
+            ]
+        },
+        "fluorite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of fluorite?",
+                    "answer": "CaF\u2082",
+                    "options": [
+                        "CaCO\u2083",
+                        "CaF\u2082",
+                        "NaCl",
+                        "SiO\u2082"
+                    ]
+                },
+                {
+                    "question": "What property is named after fluorite due to its glowing under UV light?",
+                    "answer": "Fluorescence",
+                    "options": [
+                        "Phosphorescence",
+                        "Fluorescence",
+                        "Triboluminescence",
+                        "Birefringence"
+                    ]
+                },
+                {
+                    "question": "What is fluorite's position on the Mohs hardness scale?",
+                    "answer": "4",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ]
+                },
+                {
+                    "question": "From which Latin word does 'fluorite' derive, meaning 'to flow'?",
+                    "answer": "Fluere",
+                    "options": [
+                        "Fluere",
+                        "Lumen",
+                        "Durus",
+                        "Color"
+                    ]
+                },
+                {
+                    "question": "In which industry is acid-grade fluorite primarily used?",
+                    "answer": "Chemical production for hydrofluoric acid",
+                    "options": [
+                        "Jewelry",
+                        "Chemical production for hydrofluoric acid",
+                        "Construction",
+                        "Electronics"
+                    ]
+                }
+            ]
+        },
+        "galena": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of galena?",
+                    "answer": "PbS",
+                    "options": [
+                        "PbS",
+                        "FeS2",
+                        "ZnS",
+                        "CuFeS2"
+                    ]
+                },
+                {
+                    "question": "What type of luster does galena exhibit?",
+                    "answer": "Metallic",
+                    "options": [
+                        "Metallic",
+                        "Vitreous",
+                        "Pearly",
+                        "Adamantine"
+                    ]
+                },
+                {
+                    "question": "In which type of deposits is galena commonly found?",
+                    "answer": "Hydrothermal veins",
+                    "options": [
+                        "Hydrothermal veins",
+                        "Evaporite deposits",
+                        "Placer deposits",
+                        "Magmatic intrusions"
+                    ]
+                },
+                {
+                    "question": "What is a major historical use of galena?",
+                    "answer": "Source of lead for plumbing",
+                    "options": [
+                        "Source of lead for plumbing",
+                        "Gemstone in jewelry",
+                        "Fuel in ancient fires",
+                        "Pigment in cave paintings"
+                    ]
+                }
+            ]
+        },
+        "garnet": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the general chemical formula for garnet?",
+                    "answer": "X\u2083Y\u2082(SiO\u2084)\u2083",
+                    "options": [
+                        "X\u2082Y\u2083(SiO\u2084)\u2082",
+                        "X\u2083Y\u2082(SiO\u2084)\u2083",
+                        "X\u2084Y(SiO\u2084)\u2084",
+                        "XY\u2083(SiO\u2084)\u2082"
+                    ]
+                },
+                {
+                    "question": "Which garnet variety is known for its green color and chromium content?",
+                    "answer": "Uvarovite",
+                    "options": [
+                        "Pyrope",
+                        "Almandine",
+                        "Uvarovite",
+                        "Spessartine"
+                    ]
+                },
+                {
+                    "question": "In what type of rock is garnet most commonly formed?",
+                    "answer": "Metamorphic",
+                    "options": [
+                        "Igneous",
+                        "Sedimentary",
+                        "Metamorphic",
+                        "Volcanic"
+                    ]
+                },
+                {
+                    "question": "What is the primary industrial use of garnet?",
+                    "answer": "Abrasive",
+                    "options": [
+                        "Gemstone",
+                        "Abrasive",
+                        "Laser medium",
+                        "Filter"
+                    ]
+                },
+                {
+                    "question": "From what fruit does the name 'garnet' derive its etymology?",
+                    "answer": "Pomegranate",
+                    "options": [
+                        "Apple",
+                        "Pomegranate",
+                        "Cherry",
+                        "Grape"
+                    ]
+                }
+            ]
+        },
+        "gold": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical symbol for gold?",
+                    "answer": "Au",
+                    "options": [
+                        "Ag",
+                        "Au",
+                        "Fe",
+                        "Cu"
+                    ]
+                },
+                {
+                    "question": "What is the specific gravity of pure gold?",
+                    "answer": "19.3",
+                    "options": [
+                        "15.0",
+                        "19.3",
+                        "10.5",
+                        "2.7"
+                    ]
+                },
+                {
+                    "question": "In which mythological story does a king's touch turn everything to gold?",
+                    "answer": "King Midas",
+                    "options": [
+                        "Jason and the Argonauts",
+                        "King Midas",
+                        "Dagda's Cauldron",
+                        "Aztec Sun Sweat"
+                    ]
+                },
+                {
+                    "question": "What process is commonly used to form gold deposits in rivers?",
+                    "answer": "Placer deposition",
+                    "options": [
+                        "Hydrothermal veining",
+                        "Placer deposition",
+                        "Volcanic exhalation",
+                        "Contact metamorphism"
+                    ]
+                },
+                {
+                    "question": "Which impurity commonly alloys with native gold?",
+                    "answer": "Silver",
+                    "options": [
+                        "Iron",
+                        "Silver",
+                        "Lead",
+                        "Zinc"
+                    ]
+                }
+            ]
+        },
+        "granite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary process by which granite forms?",
+                    "answer": "Cooling of felsic magma underground",
+                    "options": [
+                        "Cooling of felsic magma underground",
+                        "Rapid extrusion of lava on the surface",
+                        "Metamorphism of sedimentary rocks",
+                        "Erosion of existing mountains"
+                    ]
+                },
+                {
+                    "question": "Which mineral gives granite its characteristic glassy luster?",
+                    "answer": "Quartz",
+                    "options": [
+                        "Quartz",
+                        "Biotite",
+                        "Hornblende",
+                        "Apatite"
+                    ]
+                },
+                {
+                    "question": "What health risk is associated with granite due to its natural composition?",
+                    "answer": "Radon gas exposure",
+                    "options": [
+                        "Radon gas exposure",
+                        "Lead poisoning",
+                        "Asbestos fibers",
+                        "Mercury contamination"
+                    ]
+                },
+                {
+                    "question": "From which language does the word 'granite' originate?",
+                    "answer": "Latin",
+                    "options": [
+                        "Latin",
+                        "Greek",
+                        "Egyptian",
+                        "Italian"
+                    ]
+                },
+                {
+                    "question": "What is the typical specific gravity range for granite?",
+                    "answer": "2.65 to 2.75 g/cm\u00b3",
+                    "options": [
+                        "2.65 to 2.75 g/cm\u00b3",
+                        "3.0 to 3.5 g/cm\u00b3",
+                        "1.5 to 2.0 g/cm\u00b3",
+                        "4.0 to 4.5 g/cm\u00b3"
+                    ]
+                }
+            ]
+        },
+        "gypsum": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of gypsum?",
+                    "answer": "CaSO\u2084\u00b72H\u2082O",
+                    "options": [
+                        "CaCO\u2083",
+                        "CaSO\u2084\u00b72H\u2082O",
+                        "NaCl",
+                        "SiO\u2082"
+                    ]
+                },
+                {
+                    "question": "On the Mohs hardness scale, what is gypsum's rating?",
+                    "answer": "2",
+                    "options": [
+                        "1",
+                        "2",
+                        "5",
+                        "7"
+                    ]
+                },
+                {
+                    "question": "What is the primary use of gypsum in construction?",
+                    "answer": "Drywall and plaster",
+                    "options": [
+                        "Bricks",
+                        "Cement only",
+                        "Drywall and plaster",
+                        "Glass"
+                    ]
+                },
+                {
+                    "question": "From which Greek word does 'gypsum' derive?",
+                    "answer": "Gypsos, meaning plaster",
+                    "options": [
+                        "Selene, meaning moon",
+                        "Gypsos, meaning plaster",
+                        "Halos, meaning salt",
+                        "Pyros, meaning fire"
+                    ]
+                },
+                {
+                    "question": "What unique formation is associated with gypsum in deserts?",
+                    "answer": "Desert roses",
+                    "options": [
+                        "Geodes",
+                        "Desert roses",
+                        "Stalactites",
+                        "Obsidian"
+                    ]
+                }
+            ]
+        },
+        "halite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of halite?",
+                    "answer": "NaCl",
+                    "options": [
+                        "NaCl",
+                        "KCl",
+                        "CaSO4",
+                        "CaCO3"
+                    ]
+                },
+                {
+                    "question": "Which type of luster does halite exhibit?",
+                    "answer": "Vitreous",
+                    "options": [
+                        "Metallic",
+                        "Vitreous",
+                        "Dull",
+                        "Resinous"
+                    ]
+                },
+                {
+                    "question": "How many directions of perfect cleavage does halite have?",
+                    "answer": "Three",
+                    "options": [
+                        "One",
+                        "Two",
+                        "Three",
+                        "None"
+                    ]
+                },
+                {
+                    "question": "What is the primary formation process of halite?",
+                    "answer": "Evaporation of saline water",
+                    "options": [
+                        "Volcanic activity",
+                        "Evaporation of saline water",
+                        "Metamorphism",
+                        "Erosion"
+                    ]
+                },
+                {
+                    "question": "What is halite commonly used for in winter?",
+                    "answer": "De-icing roads",
+                    "options": [
+                        "Building construction",
+                        "De-icing roads",
+                        "Jewelry making",
+                        "Fuel production"
+                    ]
+                }
+            ]
+        },
+        "hematite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of hematite?",
+                    "answer": "Fe\u2082O\u2083",
+                    "options": [
+                        "FeO",
+                        "Fe\u2082O\u2083",
+                        "Fe\u2083O\u2084",
+                        "Al\u2082O\u2083"
+                    ]
+                },
+                {
+                    "question": "What color is the typical streak of hematite?",
+                    "answer": "Red",
+                    "options": [
+                        "Black",
+                        "Red",
+                        "White",
+                        "Green"
+                    ]
+                },
+                {
+                    "question": "From which Greek word does the name 'hematite' derive, meaning 'blood'?",
+                    "answer": "Haima",
+                    "options": [
+                        "Lithos",
+                        "Haima",
+                        "Ferros",
+                        "Ruber"
+                    ]
+                },
+                {
+                    "question": "In which type of rock formations is hematite most abundantly found?",
+                    "answer": "Banded iron formations",
+                    "options": [
+                        "Granitic intrusions",
+                        "Banded iron formations",
+                        "Limestone caves",
+                        "Volcanic basalts"
+                    ]
+                },
+                {
+                    "question": "What is one historical use of hematite dating back to prehistoric times?",
+                    "answer": "Pigment in cave paintings",
+                    "options": [
+                        "Radiation shielding",
+                        "Pigment in cave paintings",
+                        "Magnetic jewelry",
+                        "Coal separation"
+                    ]
+                }
+            ]
+        },
+        "iron_ore": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical composition of magnetite?",
+                    "answer": "Fe3O4",
+                    "options": [
+                        "Fe2O3",
+                        "Fe3O4",
+                        "FeO(OH)",
+                        "FeCO3"
+                    ]
+                },
+                {
+                    "question": "Which geological process is most associated with banded iron formations?",
+                    "answer": "Sedimentary precipitation",
+                    "options": [
+                        "Volcanic eruption",
+                        "Sedimentary precipitation",
+                        "Metamorphic recrystallization",
+                        "Igneous intrusion"
+                    ]
+                },
+                {
+                    "question": "What color streak does hematite typically produce?",
+                    "answer": "Reddish-brown",
+                    "options": [
+                        "Black",
+                        "Reddish-brown",
+                        "White",
+                        "Green"
+                    ]
+                },
+                {
+                    "question": "In what era did the Iron Age begin?",
+                    "answer": "Around 1200 BCE",
+                    "options": [
+                        "3000 BCE",
+                        "1200 BCE",
+                        "500 CE",
+                        "1800 CE"
+                    ]
+                }
+            ]
+        },
+        "lithium": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical formula of spodumene?",
+                    "answer": "LiAlSi\u2082O\u2086",
+                    "options": [
+                        "LiAlSi\u2082O\u2086",
+                        "NaAlSi\u2083O\u2088",
+                        "KAlSi\u2083O\u2088",
+                        "CaMgSi\u2082O\u2086"
+                    ]
+                },
+                {
+                    "question": "In which rock type is spodumene most commonly found?",
+                    "answer": "Granitic pegmatites",
+                    "options": [
+                        "Basalt",
+                        "Granitic pegmatites",
+                        "Limestone",
+                        "Sandstone"
+                    ]
+                },
+                {
+                    "question": "What modern application primarily drives the demand for lithium from spodumene?",
+                    "answer": "Lithium-ion batteries",
+                    "options": [
+                        "Jewelry",
+                        "Lithium-ion batteries",
+                        "Construction materials",
+                        "Food preservatives"
+                    ]
+                },
+                {
+                    "question": "What does the name 'spodumene' mean in Greek?",
+                    "answer": "Burnt to ashes",
+                    "options": [
+                        "Shining stone",
+                        "Burnt to ashes",
+                        "Green earth",
+                        "Pink flame"
+                    ]
+                }
+            ]
+        },
+        "magnetite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of magnetite?",
+                    "answer": "Fe\u2083O\u2084",
+                    "options": [
+                        "Fe\u2082O\u2083",
+                        "Fe\u2083O\u2084",
+                        "FeO",
+                        "MgFe\u2082O\u2084"
+                    ]
+                },
+                {
+                    "question": "Which property makes magnetite unique among minerals?",
+                    "answer": "Ferrimagnetism",
+                    "options": [
+                        "Transparency",
+                        "Ferrimagnetism",
+                        "Perfect cleavage",
+                        "Low density"
+                    ]
+                },
+                {
+                    "question": "In which rock type is magnetite most commonly found as an accessory mineral?",
+                    "answer": "Mafic igneous rocks",
+                    "options": [
+                        "Sedimentary rocks",
+                        "Mafic igneous rocks",
+                        "Felsic igneous rocks",
+                        "Carbonate rocks"
+                    ]
+                },
+                {
+                    "question": "What is a primary industrial use of magnetite?",
+                    "answer": "Iron ore for steel production",
+                    "options": [
+                        "Gemstone cutting",
+                        "Iron ore for steel production",
+                        "Fertilizer component",
+                        "Glass manufacturing"
+                    ]
+                },
+                {
+                    "question": "What biological organisms produce magnetite?",
+                    "answer": "Magnetotactic bacteria",
+                    "options": [
+                        "Plants",
+                        "Magnetotactic bacteria",
+                        "Fungi",
+                        "Mammals"
+                    ]
+                }
+            ]
+        },
+        "malachite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of malachite?",
+                    "answer": "Cu\u2082CO\u2083(OH)\u2082",
+                    "options": [
+                        "CuO",
+                        "Cu\u2082CO\u2083(OH)\u2082",
+                        "MgCO\u2083",
+                        "Fe\u2082O\u2083"
+                    ]
+                },
+                {
+                    "question": "What color is the streak of malachite?",
+                    "answer": "Light green",
+                    "options": [
+                        "White",
+                        "Light green",
+                        "Black",
+                        "Red"
+                    ]
+                },
+                {
+                    "question": "In which ancient civilization was malachite used for eye makeup in burials?",
+                    "answer": "Egypt",
+                    "options": [
+                        "Greece",
+                        "Egypt",
+                        "Rome",
+                        "China"
+                    ]
+                },
+                {
+                    "question": "What is the primary formation process of malachite?",
+                    "answer": "Supergene weathering of copper ores",
+                    "options": [
+                        "Volcanic eruption",
+                        "Supergene weathering of copper ores",
+                        "Metamorphic recrystallization",
+                        "Sedimentary deposition"
+                    ]
+                },
+                {
+                    "question": "Which mineral is commonly associated with malachite and shares a similar blue color?",
+                    "answer": "Azurite",
+                    "options": [
+                        "Azurite",
+                        "Calcite",
+                        "Goethite",
+                        "Quartz"
+                    ]
+                }
+            ]
+        },
+        "mica": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the typical luster of mica?",
+                    "answer": "Pearly or vitreous",
+                    "options": [
+                        "Metallic",
+                        "Pearly or vitreous",
+                        "Dull",
+                        "Greasy"
+                    ]
+                },
+                {
+                    "question": "Which property allows mica to be split into thin sheets?",
+                    "answer": "Perfect basal cleavage",
+                    "options": [
+                        "Hardness",
+                        "Fracture",
+                        "Perfect basal cleavage",
+                        "Tenacity"
+                    ]
+                },
+                {
+                    "question": "What is a primary industrial use of mica?",
+                    "answer": "Electrical insulation",
+                    "options": [
+                        "Gemstone cutting",
+                        "Electrical insulation",
+                        "Fuel additive",
+                        "Textile dyeing"
+                    ]
+                },
+                {
+                    "question": "From which Latin word does 'mica' derive?",
+                    "answer": "Mica (crumb)",
+                    "options": [
+                        "Micron (small)",
+                        "Mica (crumb)",
+                        "Miner (to mine)",
+                        "Mirare (to wonder)"
+                    ]
+                }
+            ]
+        },
+        "olivine": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical composition of olivine?",
+                    "answer": "(Mg,Fe)\u2082SiO\u2084",
+                    "options": [
+                        "SiO\u2082",
+                        "(Mg,Fe)\u2082SiO\u2084",
+                        "CaCO\u2083",
+                        "NaCl"
+                    ]
+                },
+                {
+                    "question": "In which rock type is olivine most abundant?",
+                    "answer": "Dunite",
+                    "options": [
+                        "Granite",
+                        "Basalt",
+                        "Dunite",
+                        "Sandstone"
+                    ]
+                },
+                {
+                    "question": "What is the gem variety of olivine called?",
+                    "answer": "Peridot",
+                    "options": [
+                        "Emerald",
+                        "Peridot",
+                        "Ruby",
+                        "Sapphire"
+                    ]
+                },
+                {
+                    "question": "Which element increases the specific gravity of olivine?",
+                    "answer": "Iron",
+                    "options": [
+                        "Magnesium",
+                        "Silicon",
+                        "Iron",
+                        "Oxygen"
+                    ]
+                },
+                {
+                    "question": "What high-pressure polymorph does olivine transform into at around 410 km depth?",
+                    "answer": "Wadsleyite",
+                    "options": [
+                        "Quartz",
+                        "Wadsleyite",
+                        "Serpentine",
+                        "Pyroxene"
+                    ]
+                }
+            ]
+        },
+        "pyrite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of pyrite?",
+                    "answer": "FeS\u2082",
+                    "options": [
+                        "FeS\u2082",
+                        "Au",
+                        "CuFeS\u2082",
+                        "Fe\u2082O\u2083"
+                    ]
+                },
+                {
+                    "question": "Why is pyrite called 'fool's gold'?",
+                    "answer": "Due to its metallic luster and yellow color resembling gold",
+                    "options": [
+                        "Because it contains real gold",
+                        "Due to its metallic luster and yellow color resembling gold",
+                        "It is rarer than gold",
+                        "It is used to make gold jewelry"
+                    ]
+                },
+                {
+                    "question": "What environmental issue is primarily caused by pyrite oxidation?",
+                    "answer": "Acid mine drainage",
+                    "options": [
+                        "Global warming",
+                        "Acid mine drainage",
+                        "Soil erosion",
+                        "Ozone depletion"
+                    ]
+                },
+                {
+                    "question": "What is the Mohs hardness of pyrite?",
+                    "answer": "6-6.5",
+                    "options": [
+                        "2-3",
+                        "4-5",
+                        "6-6.5",
+                        "9-10"
+                    ]
+                },
+                {
+                    "question": "From which Greek word does 'pyrite' derive?",
+                    "answer": "Pyr (fire)",
+                    "options": [
+                        "Aurum (gold)",
+                        "Pyr (fire)",
+                        "Lithos (stone)",
+                        "Chalcos (copper)"
+                    ]
+                }
+            ]
+        },
+        "pyroxene": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the general chemical formula for pyroxenes?",
+                    "answer": "XY(Si,Al)\u2082O\u2086",
+                    "options": [
+                        "XY(Si,Al)\u2082O\u2086",
+                        "SiO\u2082",
+                        "CaCO\u2083",
+                        "KAlSi\u2083O\u2088"
+                    ]
+                },
+                {
+                    "question": "From what Greek words is 'pyroxene' derived?",
+                    "answer": "Fire and stranger",
+                    "options": [
+                        "Fire and stranger",
+                        "Rock and chain",
+                        "Silicon and oxygen",
+                        "Magma and crystal"
+                    ]
+                },
+                {
+                    "question": "In which rock types are pyroxenes commonly found?",
+                    "answer": "Basalt and gabbro",
+                    "options": [
+                        "Basalt and gabbro",
+                        "Granite and quartzite",
+                        "Limestone and marble",
+                        "Shale and sandstone"
+                    ]
+                },
+                {
+                    "question": "What modern application relies on the pyroxene spodumene?",
+                    "answer": "Lithium batteries",
+                    "options": [
+                        "Lithium batteries",
+                        "Diamond cutting",
+                        "Glass manufacturing",
+                        "Fertilizer production"
+                    ]
+                }
+            ]
+        },
+        "quartz": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical formula of quartz?",
+                    "answer": "SiO2",
+                    "options": [
+                        "SiO2",
+                        "CaCO3",
+                        "Fe2O3",
+                        "NaCl"
+                    ]
+                },
+                {
+                    "question": "What is the hardness of quartz on the Mohs scale?",
+                    "answer": "7",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ]
+                },
+                {
+                    "question": "Which property of quartz makes it useful in electronic devices like watches?",
+                    "answer": "Piezoelectric effect",
+                    "options": [
+                        "Piezoelectric effect",
+                        "Magnetism",
+                        "Conductivity",
+                        "Fluorescence"
+                    ]
+                },
+                {
+                    "question": "What is the typical luster of quartz?",
+                    "answer": "Vitreous",
+                    "options": [
+                        "Metallic",
+                        "Pearly",
+                        "Vitreous",
+                        "Dull"
+                    ]
+                },
+                {
+                    "question": "In which rock type is quartz a defining constituent?",
+                    "answer": "Granite",
+                    "options": [
+                        "Basalt",
+                        "Limestone",
+                        "Granite",
+                        "Shale"
+                    ]
+                }
+            ]
+        },
+        "ruby": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical composition of ruby?",
+                    "answer": "Al\u2082O\u2083 with chromium",
+                    "options": [
+                        "Al\u2082O\u2083 with chromium",
+                        "SiO\u2082 with iron",
+                        "CaCO\u2083 with magnesium",
+                        "Fe\u2082O\u2083 with titanium"
+                    ]
+                },
+                {
+                    "question": "What gives ruby its red color?",
+                    "answer": "Chromium impurities",
+                    "options": [
+                        "Iron deposits",
+                        "Chromium impurities",
+                        "Titanium inclusions",
+                        "Manganese traces"
+                    ]
+                },
+                {
+                    "question": "On the Mohs scale, what is ruby's hardness?",
+                    "answer": "9",
+                    "options": [
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                }
+            ]
+        },
+        "sapphire": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical composition of sapphire?",
+                    "answer": "Al\u2082O\u2083",
+                    "options": [
+                        "SiO\u2082",
+                        "Al\u2082O\u2083",
+                        "CaCO\u2083",
+                        "Fe\u2082O\u2083"
+                    ]
+                },
+                {
+                    "question": "What trace elements cause the classic blue color in sapphire?",
+                    "answer": "Iron and titanium",
+                    "options": [
+                        "Chromium and vanadium",
+                        "Iron and titanium",
+                        "Copper and nickel",
+                        "Manganese and cobalt"
+                    ]
+                },
+                {
+                    "question": "On the Mohs hardness scale, what rating does sapphire have?",
+                    "answer": "9",
+                    "options": [
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "question": "What phenomenon causes the star effect in star sapphires?",
+                    "answer": "Asterism from rutile inclusions",
+                    "options": [
+                        "Fluorescence under UV",
+                        "Asterism from rutile inclusions",
+                        "Pleochroism in light",
+                        "Birefringence splitting"
+                    ]
+                },
+                {
+                    "question": "In which rock types is sapphire commonly found?",
+                    "answer": "Igneous, metamorphic, and sedimentary",
+                    "options": [
+                        "Only igneous",
+                        "Igneous and metamorphic",
+                        "Metamorphic and sedimentary",
+                        "Igneous, metamorphic, and sedimentary"
+                    ]
+                }
+            ]
+        },
+        "silver": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the chemical symbol for silver?",
+                    "answer": "Ag",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ]
+                },
+                {
+                    "question": "What is the luster of native silver?",
+                    "answer": "Metallic",
+                    "options": [
+                        "Metallic",
+                        "Vitreous",
+                        "Resinous",
+                        "Adamantine"
+                    ]
+                },
+                {
+                    "question": "Which condition can result from excessive silver exposure?",
+                    "answer": "Argyria",
+                    "options": [
+                        "Argyria",
+                        "Anemia",
+                        "Asthma",
+                        "Arthritis"
+                    ]
+                },
+                {
+                    "question": "In Greek mythology, silver is associated with which goddess?",
+                    "answer": "Artemis",
+                    "options": [
+                        "Athena",
+                        "Artemis",
+                        "Aphrodite",
+                        "Hera"
+                    ]
+                }
+            ]
+        },
+        "sphalerite": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the primary chemical formula of sphalerite?",
+                    "answer": "(Zn,Fe)S",
+                    "options": [
+                        "ZnS",
+                        "(Zn,Fe)S",
+                        "FeS\u2082",
+                        "PbS"
+                    ]
+                },
+                {
+                    "question": "Which luster is commonly associated with sphalerite?",
+                    "answer": "Adamantine",
+                    "options": [
+                        "Vitreous",
+                        "Adamantine",
+                        "Metallic",
+                        "Pearly"
+                    ]
+                },
+                {
+                    "question": "What is the Mohs hardness of sphalerite?",
+                    "answer": "3.5-4",
+                    "options": [
+                        "2-3",
+                        "3.5-4",
+                        "5-6",
+                        "7-8"
+                    ]
+                },
+                {
+                    "question": "From which Greek word does 'sphalerite' derive?",
+                    "answer": "Sphaleros",
+                    "options": [
+                        "Sphaira",
+                        "Sphaleros",
+                        "Sphaleron",
+                        "Sphinx"
+                    ]
+                },
+                {
+                    "question": "What is a key industrial use of zinc from sphalerite?",
+                    "answer": "Galvanizing steel",
+                    "options": [
+                        "Making glass",
+                        "Galvanizing steel",
+                        "Producing paper",
+                        "Refining oil"
+                    ]
+                }
+            ]
+        },
+        "topaz": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What is the Mohs hardness of topaz?",
+                    "answer": "8",
+                    "options": [
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "question": "What elements primarily compose topaz?",
+                    "answer": "Aluminum, silicon, fluorine, and oxygen",
+                    "options": [
+                        "Carbon and hydrogen",
+                        "Aluminum, silicon, fluorine, and oxygen",
+                        "Calcium and carbonate",
+                        "Sodium and chlorine"
+                    ]
+                },
+                {
+                    "question": "In which rock types is topaz most commonly found?",
+                    "answer": "Granites and pegmatites",
+                    "options": [
+                        "Basalts and gabbros",
+                        "Granites and pegmatites",
+                        "Limestones and marbles",
+                        "Sandstones and shales"
+                    ]
+                },
+                {
+                    "question": "What is the most valuable color of natural topaz?",
+                    "answer": "Red",
+                    "options": [
+                        "Blue",
+                        "Yellow",
+                        "Red",
+                        "Colorless"
+                    ]
+                }
+            ]
+        },
+        "tourmaline": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What property allows tourmaline to attract dust when heated?",
+                    "answer": "Pyroelectricity",
+                    "options": [
+                        "Piezoelectricity",
+                        "Pyroelectricity",
+                        "Magnetism",
+                        "Fluorescence"
+                    ]
+                },
+                {
+                    "question": "Which element gives Para\u00edba tourmaline its neon color?",
+                    "answer": "Copper",
+                    "options": [
+                        "Iron",
+                        "Manganese",
+                        "Copper",
+                        "Chromium"
+                    ]
+                },
+                {
+                    "question": "What is the Mohs hardness of tourmaline?",
+                    "answer": "7-7.5",
+                    "options": [
+                        "5-6",
+                        "6-7",
+                        "7-7.5",
+                        "8-9"
+                    ]
+                },
+                {
+                    "question": "From which language does 'tourmaline' derive?",
+                    "answer": "Sinhalese",
+                    "options": [
+                        "Latin",
+                        "German",
+                        "Sinhalese",
+                        "Portuguese"
+                    ]
+                }
+            ]
+        },
+        "void": {
+            "educational_quiz_questions": [
+                {
+                    "question": "What natural process primarily forms voids in limestone?",
+                    "answer": "Dissolution by acidic water",
+                    "options": [
+                        "Dissolution by acidic water",
+                        "Volcanic eruption",
+                        "Earthquake fracturing",
+                        "Wind erosion"
+                    ]
+                },
+                {
+                    "question": "From which language does the word 'void' primarily derive?",
+                    "answer": "Latin",
+                    "options": [
+                        "Latin",
+                        "Greek",
+                        "Old French",
+                        "English"
+                    ]
+                },
+                {
+                    "question": "What is a common health hazard associated with mining voids?",
+                    "answer": "Asphyxiation from toxic gases",
+                    "options": [
+                        "Asphyxiation from toxic gases",
+                        "Sunburn",
+                        "Allergic reactions to plants",
+                        "Noise-induced hearing loss"
+                    ]
+                },
+                {
+                    "question": "In mythology, caves (voids) are often symbolized as what?",
+                    "answer": "Wombs or places of origin",
+                    "options": [
+                        "Wombs or places of origin",
+                        "Battlefields",
+                        "Marketplaces",
+                        "Libraries"
+                    ]
+                }
+            ]
+        }
+    }
+}

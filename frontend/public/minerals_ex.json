@@ -1,0 +1,1190 @@
+{
+    "minerals": {
+        "amethyst": {
+            "id": 13,
+            "name": "Amethyst",
+            "formula": "SiO\u2082 (with Fe)",
+            "hardness": 7,
+            "color_variants": "Purple to violet",
+            "crystal_system": "Trigonal",
+            "description": "Purple variety of quartz caused by irradiation and iron impurities.",
+            "color": [
+                148,
+                0,
+                211
+            ],
+            "texture": "/textures/amethyst/amethyst1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.02,
+                "36-inf": 0.0
+            }
+        },
+        "amphibole": {
+            "id": 14,
+            "name": "Amphibole (general)",
+            "formula": "Complex (e.g., hornblende)",
+            "hardness": 5,
+            "color_variants": "Dark green to black",
+            "crystal_system": "Monoclinic",
+            "description": "Group of inosilicate minerals common in igneous and metamorphic rocks.",
+            "color": [
+                0,
+                100,
+                0
+            ],
+            "texture": "/textures/amphibole/amphibole1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.5,
+            "metalness": 0.2,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.03,
+                "36-inf": 0.0
+            }
+        },
+        "azurite": {
+            "id": 12,
+            "name": "Azurite",
+            "formula": "Cu\u2083(CO\u2083)\u2082(OH)\u2082",
+            "hardness": 3.5,
+            "color_variants": "Deep blue",
+            "crystal_system": "Monoclinic",
+            "description": "Copper carbonate mineral, often found with malachite.",
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "texture": "/textures/azurite/azurite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.03,
+                "36-inf": 0.01
+            }
+        },
+        "basalt": {
+            "id": 5,
+            "name": "Basalt (rock)",
+            "formula": "Mixture (primarily plagioclase + pyroxene)",
+            "hardness": 6,
+            "color_variants": "Dark gray to black",
+            "crystal_system": "N/A (rock)",
+            "description": "Fine-grained mafic igneous rock, most common volcanic rock on Earth.",
+            "color": [
+                50,
+                50,
+                50
+            ],
+            "texture": "/textures/basalt/basalt1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.6,
+            "metalness": 0.2,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.1,
+                "36-inf": 0.3
+            }
+        },
+        "bauxite": {
+            "id": 15,
+            "name": "Bauxite",
+            "formula": "Mixture (primarily Al(OH)\u2083, AlOOH)",
+            "hardness": 1,
+            "color_variants": "Red-brown, white, yellow",
+            "crystal_system": "N/A (rock/ore)",
+            "description": "Primary ore of aluminum, formed by intense tropical weathering.",
+            "color": [
+                139,
+                62,
+                47
+            ],
+            "texture": "/textures/bauxite/bauxite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.3,
+            "prob_layers": {
+                "0-10": 0.02,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "calcite": {
+            "id": 16,
+            "name": "Calcite",
+            "formula": "CaCO\u2083",
+            "hardness": 3,
+            "color_variants": "Colorless, white, various colors",
+            "crystal_system": "Trigonal",
+            "description": "Most common carbonate mineral, main component of limestone and marble.",
+            "color": [
+                245,
+                245,
+                245
+            ],
+            "texture": "/textures/calcite/calcite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.3,
+            "metalness": 0.2,
+            "prob_layers": {
+                "0-10": 0.05,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "chalcopyrite": {
+            "id": 17,
+            "name": "Chalcopyrite",
+            "formula": "CuFeS\u2082",
+            "hardness": 3.5,
+            "color_variants": "Brass-yellow, often iridescent",
+            "crystal_system": "Tetragonal",
+            "description": "Most important copper ore mineral, known as 'fool's gold' for its color.",
+            "color": [
+                218,
+                165,
+                32
+            ],
+            "texture": "/textures/chalcopyrite/chalcopyrite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.3,
+            "metalness": 0.5,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.02,
+                "36-inf": 0.0
+            }
+        },
+        "clay": {
+            "id": 18,
+            "name": "Clay (generic kaolin group)",
+            "formula": "Al\u2082Si\u2082O\u2085(OH)\u2084 (kaolinite)",
+            "hardness": 1,
+            "color_variants": "White, brown, red",
+            "crystal_system": "Triclinic",
+            "description": "Fine-grained phyllosilicate minerals, primary component of soil and sediments.",
+            "color": [
+                165,
+                42,
+                42
+            ],
+            "texture": "/textures/clay/clay1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.7,
+            "metalness": 0.05,
+            "prob_layers": {
+                "0-10": 0.05,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "cobalt": {
+            "id": 19,
+            "name": "Cobalt Ore (cobaltite/safflorite)",
+            "formula": "CoAsS / (Co,Fe)As\u2082",
+            "hardness": 5.5,
+            "color_variants": "Silver-gray, reddish",
+            "crystal_system": "Orthorhombic",
+            "description": "Primary source of cobalt, often associated with nickel and copper deposits.",
+            "color": [
+                0,
+                71,
+                171
+            ],
+            "texture": "/textures/cobalt/cobalt1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.8,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.02
+            }
+        },
+        "copper": {
+            "id": 7,
+            "name": "Copper (native)",
+            "formula": "Cu",
+            "hardness": 2.5,
+            "color_variants": "Copper-red",
+            "crystal_system": "Isometric",
+            "description": "Native metal, excellent conductor, often found in oxidized zones as malachite.",
+            "color": [
+                184,
+                115,
+                51
+            ],
+            "texture": "/textures/copper/copper1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.8,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.05,
+                "36-inf": 0.0
+            }
+        },
+        "diamond": {
+            "id": 9,
+            "name": "Diamond",
+            "formula": "C",
+            "hardness": 10,
+            "color_variants": "Colorless, yellow, brown, rare colors (blue, pink, etc.)",
+            "crystal_system": "Isometric",
+            "description": "Hardest natural material, allotrope of carbon formed under high pressure.",
+            "color": [
+                173,
+                216,
+                230
+            ],
+            "texture": "/textures/diamond/diamond1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.05
+            }
+        },
+        "dolomite": {
+            "id": 20,
+            "name": "Dolomite",
+            "formula": "CaMg(CO\u2083)\u2082",
+            "hardness": 3.5,
+            "color_variants": "White, pink, gray",
+            "crystal_system": "Trigonal",
+            "description": "Carbonate mineral, main component of dolostone sedimentary rock.",
+            "color": [
+                211,
+                211,
+                211
+            ],
+            "texture": "/textures/dolomite/dolomite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.03,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "emerald": {
+            "id": 10,
+            "name": "Emerald",
+            "formula": "Be\u2083Al\u2082Si\u2086O\u2081\u2088 (with Cr/V)",
+            "hardness": 7.5,
+            "color_variants": "Green",
+            "crystal_system": "Hexagonal",
+            "description": "Green variety of beryl colored by chromium and/or vanadium.",
+            "color": [
+                0,
+                255,
+                0
+            ],
+            "texture": "/textures/emerald/emerald1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.05
+            }
+        },
+        "feldspar": {
+            "id": 2,
+            "name": "Feldspar",
+            "formula": "KAlSi\u2083O\u2088 \u2013 NaAlSi\u2083O\u2088 \u2013 CaAl\u2082Si\u2082O\u2088",
+            "hardness": 6,
+            "color_variants": "White, pink, gray, green, colorless",
+            "crystal_system": "Triclinic or Monoclinic",
+            "description": "The most abundant group of minerals in Earth's crust, making up about 60% of it.",
+            "color": [
+                255,
+                192,
+                203
+            ],
+            "texture": "/textures/feldspar/feldspar1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.41,
+                "11-35": 0.3,
+                "36-inf": 0.0
+            }
+        },
+        "fluorite": {
+            "id": 21,
+            "name": "Fluorite",
+            "formula": "CaF\u2082",
+            "hardness": 4,
+            "color_variants": "Purple, green, blue, yellow, colorless",
+            "crystal_system": "Isometric",
+            "description": "Colorful halide mineral, source of fluorine, often fluorescent.",
+            "color": [
+                128,
+                0,
+                128
+            ],
+            "texture": "/textures/fluorite/fluorite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.02,
+                "36-inf": 0.0
+            }
+        },
+        "galena": {
+            "id": 22,
+            "name": "Galena",
+            "formula": "PbS",
+            "hardness": 25,
+            "color_variants": "Lead-gray",
+            "crystal_system": "Isometric",
+            "description": "Primary ore of lead, dense with perfect cubic cleavage.",
+            "color": [
+                128,
+                128,
+                128
+            ],
+            "texture": "/textures/galena/galena1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.3,
+            "metalness": 0.7,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.01,
+                "36-inf": 0.0
+            }
+        },
+        "garnet": {
+            "id": 23,
+            "name": "Garnet (general)",
+            "formula": "X\u2083Y\u2082(SiO\u2084)\u2083",
+            "hardness": 6.5,
+            "color_variants": "Red, green, orange, purple",
+            "crystal_system": "Isometric",
+            "description": "Group of silicate minerals used as gemstones and abrasives.",
+            "color": [
+                139,
+                0,
+                0
+            ],
+            "texture": "/textures/garnet/garnet1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.03
+            }
+        },
+        "gold": {
+            "id": 4,
+            "name": "Gold (native)",
+            "formula": "Au",
+            "hardness": 2.5,
+            "color_variants": "Gold yellow",
+            "crystal_system": "Isometric",
+            "description": "Native metallic element, highly valued for its rarity and luster.",
+            "color": [
+                255,
+                215,
+                0
+            ],
+            "texture": "/textures/gold/gold1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "roughness": 0.1,
+            "metalness": 0.9,
+            "prob_layers": {
+                "0-10": 0.01,
+                "11-35": 0.02,
+                "36-inf": 0.01
+            }
+        },
+        "granite": {
+            "id": 6,
+            "name": "Granite (rock)",
+            "formula": "Mixture (quartz + feldspar + mica)",
+            "hardness": 6,
+            "color_variants": "White, pink, gray",
+            "crystal_system": "N/A (rock)",
+            "description": "Coarse-grained felsic intrusive igneous rock, major component of continental crust.",
+            "color": [
+                200,
+                200,
+                200
+            ],
+            "texture": "/textures/granite/granite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.6,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.1,
+                "36-inf": 0.0
+            }
+        },
+        "gypsum": {
+            "id": 24,
+            "name": "Gypsum",
+            "formula": "CaSO\u2084\u00b72H\u2082O",
+            "hardness": 2,
+            "color_variants": "Colorless, white, sometimes tinted",
+            "crystal_system": "Monoclinic",
+            "description": "Soft sulfate mineral, main constituent of plaster and drywall.",
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "texture": "/textures/gypsum/gypsum1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.5,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.03,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "halite": {
+            "id": 25,
+            "name": "Halite",
+            "formula": "NaCl",
+            "hardness": 2,
+            "color_variants": "Colorless, white, sometimes blue/pink",
+            "crystal_system": "Isometric",
+            "description": "Rock salt, evaporite mineral, highly soluble in water.",
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "texture": "/textures/halite/halite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.3,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.02,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "hematite": {
+            "id": 26,
+            "name": "Hematite",
+            "formula": "Fe\u2082O\u2083",
+            "hardness": 5,
+            "color_variants": "Steel-gray to red-brown",
+            "crystal_system": "Trigonal",
+            "description": "Most important iron ore, gives red streak.",
+            "color": [
+                128,
+                0,
+                0
+            ],
+            "texture": "/textures/hematite/hematite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.5,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.02,
+                "36-inf": 0.0
+            }
+        },
+        "iron_ore": {
+            "id": 8,
+            "name": "Iron Ore (generic, primarily hematite/magnetite)",
+            "formula": "Fe\u2082O\u2083 / Fe\u2083O\u2084",
+            "hardness": 5,
+            "color_variants": "Red-brown to black",
+            "crystal_system": "Trigonal / Isometric",
+            "description": "Primary source of iron, most commonly hematite and magnetite.",
+            "color": [
+                100,
+                100,
+                100
+            ],
+            "texture": "/textures/iron_ore/iron_ore1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.2
+            }
+        },
+        "lithium": {
+            "id": 27,
+            "name": "Lithium Ore (spodumene)",
+            "formula": "LiAlSi\u2082O\u2086",
+            "hardness": 6.5,
+            "color_variants": "White, gray, pink, green",
+            "crystal_system": "Monoclinic",
+            "description": "Primary source of lithium for batteries.",
+            "color": [
+                192,
+                192,
+                192
+            ],
+            "texture": "/textures/lithium/lithium1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.01,
+                "36-inf": 0.0
+            }
+        },
+        "magnetite": {
+            "id": 28,
+            "name": "Magnetite",
+            "formula": "Fe\u2083O\u2084",
+            "hardness": 5.5,
+            "color_variants": "Black",
+            "crystal_system": "Isometric",
+            "description": "Strongly magnetic iron oxide, important iron ore.",
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "texture": "/textures/magnetite/magnetite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.02,
+                "36-inf": 0.0
+            }
+        },
+        "malachite": {
+            "id": 29,
+            "name": "Malachite",
+            "formula": "Cu\u2082CO\u2083(OH)\u2082",
+            "hardness": 3.5,
+            "color_variants": "Bright green banded",
+            "crystal_system": "Monoclinic",
+            "description": "Copper carbonate, often forms botryoidal masses with azurite.",
+            "color": [
+                0,
+                128,
+                0
+            ],
+            "texture": "/textures/malachite/malachite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.01,
+                "36-inf": 0.0
+            }
+        },
+        "mica": {
+            "id": 3,
+            "name": "Mica (general)",
+            "formula": "Varies (e.g., Muscovite KAl\u2082(AlSi\u2083O\u2081\u2080)(OH)\u2082, Biotite K(Mg,Fe)\u2083(AlSi\u2083O\u2081\u2080)(OH)\u2082)",
+            "hardness": 2.5,
+            "color_variants": "Colorless, black, brown, green",
+            "crystal_system": "Monoclinic",
+            "description": "Group of sheet silicate minerals known for perfect basal cleavage and shiny appearance.",
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "texture": "/textures/mica/mica1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.05,
+                "11-35": 0.1,
+                "36-inf": 0.0
+            }
+        },
+        "olivine": {
+            "id": 30,
+            "name": "Olivine (forsterite-fayalite)",
+            "formula": "(Mg,Fe)\u2082SiO\u2084",
+            "hardness": 6.5,
+            "color_variants": "Olive green",
+            "crystal_system": "Orthorhombic",
+            "description": "Dominant mineral in Earth's upper mantle, gem variety peridot.",
+            "color": [
+                154,
+                205,
+                50
+            ],
+            "texture": "/textures/olivine/olivine1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.03,
+                "36-inf": 0.0
+            }
+        },
+        "pyrite": {
+            "id": 31,
+            "name": "Pyrite",
+            "formula": "FeS\u2082",
+            "hardness": 6,
+            "color_variants": "Pale brass-yellow",
+            "crystal_system": "Isometric",
+            "description": "Iron sulfide, known as 'fool's gold' for its metallic luster.",
+            "color": [
+                184,
+                134,
+                11
+            ],
+            "texture": "/textures/pyrite/pyrite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.02,
+                "36-inf": 0.0
+            }
+        },
+        "pyroxene": {
+            "id": 11,
+            "name": "Pyroxene (general)",
+            "formula": "XY(Si,Al)\u2082O\u2086",
+            "hardness": 5,
+            "color_variants": "Dark green to black",
+            "crystal_system": "Monoclinic or Orthorhombic",
+            "description": "Important group of inosilicate minerals found in mafic and ultramafic rocks.",
+            "color": [
+                0,
+                50,
+                0
+            ],
+            "texture": "/textures/pyroxene/pyroxene1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.11,
+                "11-35": 0.2,
+                "36-inf": 0.15
+            }
+        },
+        "quartz": {
+            "id": 1,
+            "name": "Quartz",
+            "formula": "SiO\u2082",
+            "hardness": 7,
+            "color_variants": "Colorless, white, purple (amethyst), pink, brown, black, yellow (citrine), etc.",
+            "crystal_system": "Trigonal (hexagonal)",
+            "description": "One of the most common minerals in Earth's continental crust, known for its hardness and resistance to weathering.",
+            "color": [
+                128,
+                128,
+                128
+            ],
+            "texture": "/textures/quartz/quartz1.jpg",
+            "normalMap": "/textures/simple_quartz/Simple_Quartz_scale0.8_X-0.2_mathrouting_normal.png",
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.4,
+            "metalness": 0.1,
+            "prob_layers": {
+                "0-10": 0.12,
+                "11-35": 0.0,
+                "36-inf": 0.0
+            }
+        },
+        "ruby": {
+            "id": 32,
+            "name": "Ruby",
+            "formula": "Al\u2082O\u2083 (with Cr)",
+            "hardness": 9,
+            "color_variants": "Red",
+            "crystal_system": "Trigonal",
+            "description": "Red variety of corundum, colored by chromium.",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "texture": "/textures/ruby/ruby1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.02
+            }
+        },
+        "sapphire": {
+            "id": 33,
+            "name": "Sapphire",
+            "formula": "Al\u2082O\u2083 (with Fe/Ti)",
+            "hardness": 9,
+            "color_variants": "Blue, also other colors except red",
+            "crystal_system": "Trigonal",
+            "description": "Gem variety of corundum, blue caused by iron and titanium.",
+            "color": [
+                0,
+                0,
+                255
+            ],
+            "texture": "/textures/sapphire/sapphire1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.02
+            }
+        },
+        "silver": {
+            "id": 34,
+            "name": "Silver (native)",
+            "formula": "Ag",
+            "hardness": 2.5,
+            "color_variants": "Silver-white",
+            "crystal_system": "Isometric",
+            "description": "Native precious metal, best electrical conductor.",
+            "color": [
+                192,
+                192,
+                192
+            ],
+            "texture": "/textures/silver/silver1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.03
+            }
+        },
+        "sphalerite": {
+            "id": 35,
+            "name": "Sphalerite",
+            "formula": "ZnS",
+            "hardness": 3.5,
+            "color_variants": "Yellow, brown, black",
+            "crystal_system": "Isometric",
+            "description": "Primary ore of zinc, often contains iron.",
+            "color": [
+                139,
+                69,
+                19
+            ],
+            "texture": "/textures/sphalerite/sphalerite1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.01,
+                "36-inf": 0.0
+            }
+        },
+        "topaz": {
+            "id": 36,
+            "name": "Topaz",
+            "formula": "Al\u2082SiO\u2084(F,OH)\u2082",
+            "hardness": 8,
+            "color_variants": "Colorless, blue, yellow, pink",
+            "crystal_system": "Orthorhombic",
+            "description": "Hard silicate mineral, popular gemstone.",
+            "color": [
+                255,
+                215,
+                0
+            ],
+            "texture": "/textures/topaz/topaz1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.02
+            }
+        },
+        "tourmaline": {
+            "id": 37,
+            "name": "Tourmaline (general)",
+            "formula": "Complex borosilicate",
+            "hardness": 7,
+            "color_variants": "Almost any color, often multicolored",
+            "crystal_system": "Trigonal",
+            "description": "Complex gemstone known for strong pleochroism and piezoelectric properties.",
+            "color": [
+                255,
+                105,
+                180
+            ],
+            "texture": "/textures/tourmaline/tourmaline1.jpg",
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 0.2,
+            "metalness": 0.6,
+            "prob_layers": {
+                "0-10": 0.0,
+                "11-35": 0.0,
+                "36-inf": 0.02
+            }
+        },
+        "void": {
+            "id": 999,
+            "name": "Void",
+            "formula": "N/A",
+            "hardness": 0,
+            "color_variants": "None",
+            "crystal_system": "N/A",
+            "description": "Placeholder for empty space or unmined blocks.",
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "texture": null,
+            "normalMap": null,
+            "roughnessMap": null,
+            "emissiveMap": null,
+            "roughness": 1.0,
+            "metalness": 0.0
+        }
+    },
+    "coverVariants": [
+        {
+            "id": "clayey_mudflat",
+            "description": "Clayey Mudflat",
+            "color": [
+                100,
+                80,
+                60
+            ],
+            "texture": "/textures/cover_variants/clayey_mudflat/clayey_mudflat1.jpg",
+            "roughness": 0.9,
+            "metalness": 0.0
+        },
+        {
+            "id": "coral_reef_sand",
+            "description": "Coral Reef Sand",
+            "color": [
+                220,
+                200,
+                180
+            ],
+            "texture": "/textures/cover_variants/coral_reef_sand/coral_reef_sand1.jpg",
+            "roughness": 0.8,
+            "metalness": 0.0
+        },
+        {
+            "id": "desert_dune",
+            "description": "Desert Dune",
+            "color": [
+                210,
+                180,
+                140
+            ],
+            "texture": "/textures/cover_variants/desert_dune/desert_dune1.jpg",
+            "roughness": 0.8,
+            "metalness": 0.0
+        },
+        {
+            "id": "forest_leaf",
+            "description": "Forest Leaf",
+            "color": [
+                100,
+                80,
+                40
+            ],
+            "texture": "/textures/cover_variants/forest_leaf/forest_leaf1.jpg",
+            "roughness": 0.95,
+            "metalness": 0.0
+        },
+        {
+            "id": "glacial_ice",
+            "description": "Glacial Ice",
+            "color": [
+                200,
+                220,
+                230
+            ],
+            "texture": "/textures/cover_variants/glacial_ice/glacial_ice1.jpg",
+            "roughness": 0.2,
+            "metalness": 0.0
+        },
+        {
+            "id": "grassland_sod",
+            "description": "Grassland Sod",
+            "color": [
+                120,
+                100,
+                60
+            ],
+            "texture": "/textures/cover_variants/grassland_sod/grassland_sod1.jpg",
+            "roughness": 0.85,
+            "metalness": 0.0
+        },
+        {
+            "id": "laterite_soil",
+            "description": "Laterite Soil",
+            "color": [
+                150,
+                60,
+                30
+            ],
+            "texture": "/textures/cover_variants/laterite_soil/laterite_soil1.jpg",
+            "roughness": 0.9,
+            "metalness": 0.0
+        },
+        {
+            "id": "limestone_pavement",
+            "description": "Limestone Pavement",
+            "color": [
+                180,
+                180,
+                180
+            ],
+            "texture": "/textures/cover_variants/limestone_pavement/limestone_pavement1.jpg",
+            "roughness": 0.6,
+            "metalness": 0.0
+        },
+        {
+            "id": "loamy_soil",
+            "description": "Loamy Soil",
+            "color": [
+                130,
+                100,
+                70
+            ],
+            "texture": "/textures/cover_variants/loamy_soil/loamy_soil1.jpg",
+            "roughness": 0.85,
+            "metalness": 0.0
+        },
+        {
+            "id": "metamorphic_gneiss",
+            "description": "Metamorphic Gneiss",
+            "color": [
+                150,
+                150,
+                150
+            ],
+            "texture": "/textures/cover_variants/metamorphic_gneiss/metamorphic_gneiss1.jpg",
+            "roughness": 0.5,
+            "metalness": 0.0
+        },
+        {
+            "id": "peat_bog",
+            "description": "Peat Bog",
+            "color": [
+                80,
+                50,
+                30
+            ],
+            "texture": "/textures/cover_variants/peat_bog/peat_bog1.jpg",
+            "roughness": 0.95,
+            "metalness": 0.0
+        },
+        {
+            "id": "riverbed_gravel",
+            "description": "Riverbed Gravel",
+            "color": [
+                140,
+                120,
+                100
+            ],
+            "texture": "/textures/cover_variants/riverbed_gravel/riverbed_gravel1.jpg",
+            "roughness": 0.7,
+            "metalness": 0.0
+        },
+        {
+            "id": "saltflat_crust",
+            "description": "Saltflat Crust",
+            "color": [
+                240,
+                240,
+                240
+            ],
+            "texture": "/textures/cover_variants/saltflat_crust/saltflat_crust1.jpg",
+            "roughness": 0.6,
+            "metalness": 0.0
+        },
+        {
+            "id": "sandstone_outcrop",
+            "description": "Sandstone Outcrop",
+            "color": [
+                180,
+                140,
+                100
+            ],
+            "texture": "/textures/cover_variants/sandstone_outcrop/sandstone_outcrop1.jpg",
+            "roughness": 0.6,
+            "metalness": 0.0
+        },
+        {
+            "id": "sandy_beach",
+            "description": "Sandy Beach",
+            "color": [
+                220,
+                210,
+                180
+            ],
+            "texture": "/textures/cover_variants/sandy_beach/sandy_beach1.jpg",
+            "roughness": 0.8,
+            "metalness": 0.0
+        },
+        {
+            "id": "shale_rock",
+            "description": "Shale Rock",
+            "color": [
+                100,
+                100,
+                100
+            ],
+            "texture": "/textures/cover_variants/shale_rock/shale_rock1.jpg",
+            "roughness": 0.5,
+            "metalness": 0.0
+        },
+        {
+            "id": "snowcovered_ground",
+            "description": "Snowcovered Ground",
+            "color": [
+                240,
+                240,
+                240
+            ],
+            "texture": "/textures/cover_variants/snowcovered_ground/snowcovered_ground1.jpg",
+            "roughness": 0.4,
+            "metalness": 0.0
+        },
+        {
+            "id": "tundra_permafrost",
+            "description": "Tundra Permafrost",
+            "color": [
+                110,
+                90,
+                70
+            ],
+            "texture": "/textures/cover_variants/tundra_permafrost/tundra_permafrost1.jpg",
+            "roughness": 0.75,
+            "metalness": 0.0
+        },
+        {
+            "id": "volcanic_glass",
+            "description": "Volcanic Glass",
+            "color": [
+                50,
+                50,
+                50
+            ],
+            "texture": "/textures/cover_variants/volcanic_glass/volcanic_glass1.jpg",
+            "roughness": 0.1,
+            "metalness": 0.0
+        },
+        {
+            "id": "volcanic lava",
+            "description": "Volcanic Lava",
+            "color": [
+                80,
+                40,
+                30
+            ],
+            "texture": "/textures/cover_variants/volcanic lava/volcanic lava1.jpg",
+            "roughness": 0.4,
+            "metalness": 0.0
+        }
+    ]
+}

@@ -27,6 +27,10 @@ echo "Terminating any existing processes on ports 5000 and 3000..."
 sudo fuser -k 5000/tcp 2>/dev/null || true
 sudo fuser -k 3000/tcp 2>/dev/null || true
 
+# Sort and copy minerals.json (run this before starting servers)
+echo "Sorting and copying minerals.json..."
+python scripts/sort_minerals_json.py
+
 # Start backend in background
 echo "Starting Flask backend..."
 cd backend

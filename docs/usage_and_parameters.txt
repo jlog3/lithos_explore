@@ -1,0 +1,20 @@
+
+
+backend/app.py
+Vein
+From a simulation on a 20x20x20 chunk (8000 voxels, base probabilities ~1% per vein mineral, no voids/offsets for simplicity):
+
+No Bias (effective vein_boost=0): Scattered isolates. ~80 cells per mineral, max cluster size 2-4 (mostly singles).
+vein_boost=0.05: Moderate veins. ~450 cells per mineral (5-6x increase), max cluster 23-39 (linear chains form).
+vein_boost=0.1 (default): Prominent veins. ~1200-1400 cells per mineral (15x increase), max cluster 148-246 (good balance for apparent structures without dominance).
+vein_boost=0.2: Aggressive clustering. ~1800-2300 cells per mineral (22-29x increase), max cluster 324-1782 (risk of large blobs; may feel unrealistic).
+
+Recommendations
+
+For Realism: 0.05-0.1—Veins are noticeable but rare, mimicking natural deposits.
+For Exaggeration (e.g., games): 0.15-0.25—Bolder structures, but monitor for overgrowth.
+Testing: Toggle use_vein_bias off in API calls to compare baselines. Vary max_iterations (e.g., 3 for faster gen, 10 for stronger propagation). Use stats like cluster analysis (via scipy) or visualize chunks to quantify.
+Advanced: Make vein_boost depth-dependent (e.g., higher in deep layers) or per-mineral for variety.
+
+To Do: for each mineral add a key in minerals.json for vein clustering boost and depth
+(we also need depth scale approximation for each mineral

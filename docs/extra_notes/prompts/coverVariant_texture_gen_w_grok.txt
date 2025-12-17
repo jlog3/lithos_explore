@@ -1,0 +1,1 @@
+Generate a seamless, tileable 512x512 PNG texture of [salt flat crust material], with [realistic white hexagonal polygons and efflorescent crystals, as found in evaporite basins like those in Bolivia's Salar de Uyuni.] Make it high-detail for an educational webapp showing surface materials by location, including subtle variations in color and roughness for authenticity.
